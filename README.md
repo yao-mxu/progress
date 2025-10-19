@@ -19,6 +19,11 @@ Goals for next week
 6. Meeting with Kiyo on HRC project update before he leaves
 7. Reply to Robb and Austin email on the HRD project
 
+Need to do over the weekend
+
+1. MSE pset 1
+2. Python assignment 1
+
 ## Oct 24, 2025 (Week 5)
 
 
