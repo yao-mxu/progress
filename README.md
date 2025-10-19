@@ -23,6 +23,10 @@ Need to do over the weekend
 
 1. MSE pset 1
 2. Python assignment 1
+3. Application to Japan Visa
+4. Get tickets etc
+5. Statement of Purpose
+6. Speak to Lori Cottle!!! ON MONDAY!!!
 
 ## Oct 24, 2025 (Week 5)
 
