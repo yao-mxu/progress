@@ -11,7 +11,7 @@ Weekly Updates
 
 Goals for next week
 
-1. Finish pset 1 in Social Data Analysis
+~~1. Finish pset 1 in Social Data Analysis~~
 2. Grading, office hours, and section lecture
 3. Send Asad requested attachments for MS in MS&E
 4. Meeting with Asad on QE3 PAA stuff
@@ -21,19 +21,18 @@ Goals for next week
 
 Need to do over the weekend
 
-1. MSE pset 1
+~~1. MSE pset 1~~
 2. Python assignment 1
-3. Application to Japan Visa
-4. Get tickets etc
+~~3. Application to Japan Visa~~
+~~4. Get tickets etc~~
 5. Statement of Purpose
--6. Speak to Lori Cottle!!! ON MONDAY!!!-
+~~6. Speak to Lori Cottle!!! ON MONDAY!!!~~
 
 ## Oct 24, 2025 (Week 5)
 
-Great:
+Monday Oct 20
 
 1. Spoke to Lori Cottle!
-2. 
 
 
 
