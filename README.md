@@ -26,9 +26,14 @@ Need to do over the weekend
 3. Application to Japan Visa
 4. Get tickets etc
 5. Statement of Purpose
-6. Speak to Lori Cottle!!! ON MONDAY!!!
+-6. Speak to Lori Cottle!!! ON MONDAY!!!-
 
 ## Oct 24, 2025 (Week 5)
+
+Great:
+
+1. Spoke to Lori Cottle!
+2. 
 
 
 
