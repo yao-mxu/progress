@@ -34,6 +34,20 @@ Monday Oct 20
 
 1. Spoke to Lori Cottle!
 
+Need to do over the weekend
+
+1. Prep for meeting with UN people
+2. Prep for meeting with Kiyo on Monday
+3. Finish post publication review!!
+4. ughh
+
+
+
+
+
+
+
+
 
 
 
