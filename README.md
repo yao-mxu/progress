@@ -42,8 +42,36 @@ Need to do over the weekend
 4. ughh
 
 
+## Sherlock Commands
+
+# SSH
+ssh yaomxu@login.sherlock.stanford.edu
+
+# Accessing the secondary group home and scratch
+
+SSH
+cd /scratch/groups/asadasad
+
+or
+cd /scratch/groups/asadasad
+
+# Data transfer from local to sherlock
+
+scp /Users/yaoxu/Dropbox/Dis/2025_09_19_gallup_world_poll.csv yaomxu@login.sherlock.stanford.edu:~/world_poll
+
+# New folder
+
+mkdir my_data_folder
+
+# Move
+
+mv socs_2022_10_19_codebook_microdata.csv my_data_folder/
+
+cp socs_2022_10_19_codebook_microdata.csv my_data_folder/   (this makes a copy)
 
 
+# Exit Sherlock
+exit
 
 
 
