@@ -69,6 +69,12 @@ mv socs_2022_10_19_codebook_microdata.csv my_data_folder/
 
 cp socs_2022_10_19_codebook_microdata.csv my_data_folder/   (this makes a copy)
 
+# Batch Move
+
+e.g. # First, see what will be moved
+ls index*
+
+mv index* IEIH_Yao/
 
 # Exit Sherlock
 exit
